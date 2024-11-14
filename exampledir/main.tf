@@ -18,6 +18,6 @@ resource "aws_instance" "app_server" {
   instance_type = "t2.nano"
 
   tags = {
-    Name = "ExampleAppServerInstanceCopy6"
+    Name = "ExampleAppServerInstanceCopy600"
   }
 }
